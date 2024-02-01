@@ -237,6 +237,8 @@ h4 {
 }
 
 .image-container img {
+    width: 320px;
+    height: 160px;
     border-radius: 1rem;
 }
 
